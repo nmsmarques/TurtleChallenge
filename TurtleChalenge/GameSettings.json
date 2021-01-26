@@ -1,0 +1,33 @@
+{
+  "BoardSize": {
+    "Width": 6,
+    "Height": 6
+  },
+  "StartingCoordinates": {
+    "CoordinateX": 0,
+    "CoordinateY": 0
+  },
+  "Direction": "South",
+  "ExitPoint":  {
+    "CoordinateX": 4,
+    "CoordinateY": 4
+  },
+  "MinesLocation": [
+    {
+      "CoordinateX": 2,
+      "CoordinateY": 1
+    },
+    {
+      "CoordinateX": 2,
+      "CoordinateY": 3
+    },
+    {
+      "CoordinateX": 3,
+      "CoordinateY": 4
+    },
+    {
+      "CoordinateX": 1,
+      "CoordinateY": 4
+    }
+  ]
+}
